@@ -3,7 +3,7 @@
 <div>
   <h3 align="center">
     I am a web developer and system admin from the United States</br>
-    I create a variety of website that can range from portfolios to forum pages
+    I can create a variety of website that can range from portfolios to forum pages or bigger webservers
   </h3>
 </div>
 
