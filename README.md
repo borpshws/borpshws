@@ -2,8 +2,8 @@
 
 <div>
   <h3 align="center">
-    I am a web developer and system admin from the United States</br>
-    I can create a variety of website that can range from portfolios to forum pages or bigger webservers
+    I am a web developer from the United States</br>
+    I have recently started programming in C#, Java, and Python
   </h3>
 </div>
 
