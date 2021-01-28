@@ -21,6 +21,6 @@
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/discord-banko%233934-purple?style=for-the-badge&logo=discord&logoColor=white"/> </a>
   <a href="https://micrsoft.com/"><img src="https://img.shields.io/badge/C%20Sharp-Microsoft%20.NET%20Programming-green?style=for-the-badge&logo=c-sharp&logoColor=white" /> </a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Oracle%20Corporation-orange?style=for-the-badge&logo=java&logoColor=white" /> </a>
-  <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/JetBrains-IDE%20Software-pink?style=for-the-badge&logo=jetbrains&logoColor=white"
+  <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/JetBrains-IDE%20Software-pink?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
 </div>
 <h3 align="center">Contact me at <a href="mailto:banko.production.network@gmail.com">banko.production.network@gmail.com</a></h3>
