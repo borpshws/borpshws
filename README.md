@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I am Banko!</h1>
+<h1 align="center">Hi there, I am Braydon!</h1>
 
 <div>
   <h3 align="center">
     I am a web developer from the United States</br>
-    I have recently started programming in C#, Java, and Python
+    I have recently started programming in C#, Java, and Python</br>
+    I also typically go by Banko
   </h3>
 </div>
 
