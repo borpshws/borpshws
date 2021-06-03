@@ -2,8 +2,8 @@
 
 <div>
   <h3 align="center">
-    I am a web developer from the United States<br>
-    I have recently started programming in C#, Java, and Python<br>
+    I am a developer from the United States<br>
+    I specialize in the prgramming languages HTML, CSS, JS, PHP and Python<br>
     I also typically go by Borp
   </h3>
 </div>
