@@ -20,5 +20,6 @@
   <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-Container%20Platform-blue?style=for-the-badge&logo=docker&logoColor=white"/> </a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/discord-borp%233934-5765f2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
   <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMWare-Workstation%20Pro-42f5cb?style=for-the-badge&logo=vmware&logoColor=white" /> </a>
+  <a href="https://en.cutefishos.com/"><img src="https://img.shields.io/badge/Linux-CutefishOS-25b0ff?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
 </div>
 <h3 align="center">Contact me at <a href="mailto:banko.production.network@gmail.com">banko.production.network@gmail.com</a></h3>
