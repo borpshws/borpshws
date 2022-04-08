@@ -22,4 +22,4 @@
   <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMWare-Workstation%20Pro-42f5cb?style=for-the-badge&logo=vmware&logoColor=white" /> </a>
   <a href="https://en.cutefishos.com/"><img src="https://img.shields.io/badge/Linux-CutefishOS-25b0ff?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
 </div>
-<h3 align="center">Contact me at <a href="borps@pm.me">borps@pm.me</a></h3>
+<h3 align="center">Contact me at <a href="mailto:borps@pm.me">borps@pm.me</a></h3>
